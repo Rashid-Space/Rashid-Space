@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving.
 - 🌱 I’m a python developer.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 I love this community
+- 📫 And I love this community
 
 <!---
 Rashid-Space/Rashid-Space is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
